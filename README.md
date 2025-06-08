@@ -1,6 +1,6 @@
 # goride  
 
-[project link](http://127.0.0.1:5500/index.html)
+[project link](https://imsaurav06.github.io/goride/)
 
 ## 📌 About the Project  
 This project is [**Car Rental Website**], created to [Rent Car Easilyl].  
